@@ -25,7 +25,7 @@ output:
 
 -   [Postit/RStudio Youtube Page](https://www.youtube.com/@PositPBC)
 
--   [R for Data Science Youtub Page](https://www.youtube.com/@r4ds)
+-   [R for Data Science Youtube Page](https://www.youtube.com/@r4ds)
 
 ------------------------------------------------------------------------
 
