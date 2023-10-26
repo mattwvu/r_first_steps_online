@@ -246,13 +246,13 @@ mean(mtcars$mpg)
 
 Like most computer software, R allows you to run commands. Commands in R
 are referred to as functions. There are several built-in functions in
-base R, however, when you install and call a new package, you will have
+base R and when you install and call a new package, you will have
 access to more functions that you can use.
 
 These built-in functions are ready-made tools like you would have a
 toolbox, and like how these different tools perform various tasks like
 measuring, cutting, or fixing things, different function perform
-differnt tasks like filtering, sorting, or calculation.
+different tasks like filtering, sorting, or calculation.
 
 ```{r}
 #| label: example function
